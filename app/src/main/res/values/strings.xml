@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MenardJamesSayson-Block6-Quiz</string>
+    <string name="button_ito">Button ito</string>
+    <string name="hello_po_sir">Hello po sir!</string>
 </resources>
